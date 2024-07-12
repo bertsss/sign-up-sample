@@ -1,24 +1,10 @@
-# sign-up-sample
-
-## Project setup
+## First, do the npm install by: 
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### After the installation of packages you can run the app by:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Note: just use node version 12.
